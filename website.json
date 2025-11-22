@@ -1,0 +1,64 @@
+{
+  "video_project": {
+    "title": "STARTIFIE Promo Video",
+    "duration": "30s",
+    "style": "modern, cinematic, high-tech",
+    "scenes": [
+      {
+        "id": 1,
+        "description": "Opening shot with abstract digital particles flowing in a dark background.",
+        "visuals": "Glowing lines, futuristic particles assembling like data streams.",
+        "transition": "fade-in with particle burst",
+        "text": "Your Digital Partner"
+      },
+      {
+        "id": 2,
+        "description": "Showcase of a website coming together piece by piece (UI blocks sliding in, menus appearing, smooth animations).",
+        "visuals": "Floating 3D panels, animated web layout assembling on screen.",
+        "transition": "slide-in with glow effect",
+        "text": "Creative Websites"
+      },
+      {
+        "id": 3,
+        "description": "App screens rotating and stacking neatly, demonstrating sleek mobile UI design.",
+        "visuals": "Multiple app mockups spinning and arranging into a grid.",
+        "transition": "3D rotate with motion blur",
+        "text": "Innovative Apps"
+      },
+      {
+        "id": 4,
+        "description": "Digital marketing visuals - analytics graphs rising, social media icons glowing, ads displaying.",
+        "visuals": "Animated graphs, social icons orbiting, ad popups with smooth animations.",
+        "transition": "zoom-in with neon glow",
+        "text": "Smart Digital Marketing"
+      },
+      {
+        "id": 5,
+        "description": "All previous visuals merge into a single frame, morphing into a futuristic glowing logo.",
+        "visuals": "Website, app, and marketing visuals collapse into one central light source.",
+        "transition": "fusion transition with energy wave",
+        "text": "All in One Solution"
+      },
+      {
+        "id": 6,
+        "description": "Company name 'STARTIFIE' builds letter by letter with glowing digital effects.",
+        "visuals": "Letters assemble with sparks, futuristic glow, and final shine effect.",
+        "transition": "particle build-up",
+        "text": "STARTIFIE"
+      }
+    ],
+    "audio": {
+      "background_music": "uplifting electronic, cinematic build-up",
+      "sound_effects": [
+        "whoosh transitions",
+        "particle sparkle",
+        "glow hum"
+      ]
+    },
+    "output": {
+      "resolution": "1920x1080",
+      "format": "mp4",
+      "quality": "high"
+    }
+  }
+}
